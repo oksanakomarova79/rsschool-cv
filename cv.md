@@ -7,7 +7,7 @@
 ## About me
 Now I work as an engineer for the design of industrial and civil facilities. I am interested in programming. The goal is to gain knowledge on fron-end development.
 
-## New skills (\*\* _in progreses_ \*\*):
+## New skills (_in progreses_):
 * _Html_
 * _Css_
 * _JavaScript_

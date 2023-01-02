@@ -15,4 +15,4 @@ Now I work as an engineer for the design of industrial and civil facilities. I a
 
 ## Language
 * _Russian - native_
-* _English - A2 (in prosess)_
+* _English - B1 (in prosess)_
